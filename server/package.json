@@ -1,0 +1,13 @@
+{
+  "name": "servidor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mysql8": "^2.17.3",
+    "query": "^0.2.0",
+    "react": "^18.2.0"
+  }
+}
